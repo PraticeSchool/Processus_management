@@ -1,0 +1,45 @@
+ÉNONCÉ — 2ᵉ Boucle PDCA : Amélioration du processus “Gérer les incidents informatiques”
+
+Vous avez réalisé un premier cycle PDCA visant à améliorer la gestion des incidents informatiques.
+Grâce à ce premier cycle, plusieurs actions ont été mises en place :
+
+- un formulaire unique pour déclarer les incidents
+- une priorisation (P1/P2/P3)
+- des délais cibles de résolution (SLA)
+- une communication automatique lors de la prise en charge
+- un début de base de connaissances
+- Après quelques semaines d’utilisation, une nouvelle analyse montre que plusieurs problèmes persistent, empêchant le service informatique d’assurer un pilotage efficace et de progresser sur l’amélioration continue.
+
+🔶 Nouveaux problèmes constatés :
+
+- De nombreux tickets sont encore mal catégorisés (type d’incident incorrect, champ impact mal renseigné…).
+- Les techniciens ne mettent pas systématiquement à jour les statuts des tickets, ce qui fausse la visibilité sur les dossiers en cours.
+- Le responsable informatique ne parvient pas à obtenir un reporting fiable (statistiques par type d’incident, par service, par criticité…).
+- L’outil de ticketing actuel montre des limites fonctionnelles (peu de tableaux de bord, pas d’alertes automatiques, exports manuels).
+
+-> Ces nouveaux constats vous amènent à produire un deuxième cycle PDCA pour continuer l’amélioration du processus.
+
+🟩 Travail demandé — 2ᵉ Boucle PDCA
+
+En groupe, vous devez réaliser un deuxième PDCA complet, en suivant les étapes suivantes :
+
+1. PLAN — Planifier
+
+Identifier précisément les nouveaux problèmes.
+Définir les objectifs de ce deuxième cycle.
+Choisir des indicateurs pertinents (KPI) pour mesurer l’amélioration.
+
+2. DO — Mettre en œuvre
+
+Proposer et décrire les actions à mettre en place pour résoudre les nouveaux problèmes.
+Expliquer comment vous allez tester ou déployer ces actions (service pilote, durée, outils…).
+
+3. CHECK — Vérifier
+
+Décrire comment vous allez mesurer les résultats et l’efficacité des actions.
+Imaginer les résultats possibles (positifs ou négatifs) à la fin de ce cycle.
+
+4. ACT — Ajuster
+
+Proposer les décisions à prendre à la fin du cycle : formalisation, généralisation, ajustement…
+Identifier le nouveau problème qui pourrait faire émerger une troisième boucle PDCA.
