@@ -1,0 +1,141 @@
+Scénario d’entreprise “LogiFret Solutions”
+
+L’entreprise  est une entreprise spécialisée dans le domaine de la gestion et du pilotage des flux logistiques pour des clients professionnels.
+Son cœur de métier consiste à coordonner l’acheminement de biens entre différents points, en assurant la planification des opérations, la gestion des mouvements physiques et l’organisation globale des flux.
+Elle s’appuie pour cela sur des infrastructures de stockage et de transit, ainsi que sur des ressources de transport internes ou partenaires.
+
+Une part importante de son activité repose également sur la supervision opérationnelle : répartition des charges de travail, optimisation des parcours, priorisation des envois, suivi de l’exécution, contrôle de la qualité de service et gestion des éventuels aléas.
+
+L’entreprise entretient une relation continue avec ses clients, notamment pour la prise en compte de leurs besoins, la communication sur l’avancement des opérations et le traitement des demandes particulières ou des incidents.
+Enfin, elle met à disposition des outils numériques permettant la consultation d’informations liées aux opérations en cours, favorisant ainsi la transparence et la fluidité des interactions.
+
+Comment elle fonctionne :
+
+- 250 employés
+- 3 entrepôts en France
+- 150 chauffeurs
+- une DSI interne de 10 personnes
+- un service support (RH, finance, achats, maintenance, etc.)
+
+Objectif principal : Assurer la livraison fiable et rapide des marchandises, tout en garantissant la satisfaction client.
+
+
+🔶 Exercice 1 : compréhension et classification des processus d'entreprise
+
+En vous appuyant sur le scénario de l’entreprise LogiFret Solutions, vous devez classer les processus ci-dessous dans l’une des catégories :
+Processus métier → activités qui contribuent directement au domaine de l'entreprise
+Processus support → activités internes qui soutiennent le fonctionnement de l’entreprise
+Processus de management → pilotage, stratégie, gouvernance et supervision de l'entreprise
+
+Liste des 28 processus (NON classés) : 
+
+1. Gérer les sauvegardes de données :
+Assurer la copie régulière des données logistiques (commandes, suivis, historiques) afin de prévenir toute perte d’information critique.
+
+2. Assurer la gestion des réclamations clients liées aux livraisons :
+Traiter les demandes des clients concernant les retards, colis abîmés ou erreurs d’acheminement et apporter une résolution rapide.
+
+3. Planifier et gérer les capacités de stockage :
+Organiser l’espace disponible dans l’entrepôt en fonction des volumes prévus, des flux entrants et des besoins de préparation.
+
+4. Gérer les incidents informatiques : 
+Résoudre les problèmes rencontrés par les employés lorsqu’un logiciel, un poste ou un outil métier devient inutilisable.
+
+5. Réaliser les opérations de chargement et déchargement : 
+Assurer les manipulations physiques de marchandises lors de l’arrivée ou du départ des camions, en respectant les règles de sécurité.
+
+6. Piloter les relations avec les partenaires stratégiques : 
+Coordonner les échanges avec les transporteurs partenaires, prestataires clés ou clients majeurs pour garantir une collaboration efficace.
+
+7. Former les collaborateurs : 
+Organiser des sessions de formation pour les chauffeurs, préparateurs, administratifs ou équipes IT afin de maintenir leur niveau de compétence.
+
+8. Mettre à disposition les informations de suivi pour les clients : 
+Actualiser les statuts des expéditions dans le portail client pour offrir un suivi précis et en temps réel de leurs livraisons.
+
+9. Gérer les achats fournisseurs : 
+Sélectionner les prestataires, négocier les prix et commander le matériel ou les services nécessaires au fonctionnement de l’entreprise.
+
+10. Suivre l’exécution des livraisons en temps réel : 
+Superviser l’avancement des chauffeurs et des tournées pour anticiper les retards et réajuster les plans si nécessaire.
+
+11. Recruter un collaborateur : 
+Mener le processus de recrutement : analyses des besoins, entretiens, sélection et intégration des nouveaux salariés.
+
+12. Planifier les opérations logistiques quotidiennes : 
+Organiser la journée logistique : répartir les livraisons, définir les priorités et allouer les ressources.
+
+13. Gérer la maintenance des entrepôts et locaux : 
+Assurer l’entretien des infrastructures (quais, racks, sols) pour garantir la sécurité et la disponibilité des espaces de travail.
+
+14. Mettre à jour une application interne : 
+Installer de nouvelles versions ou correctifs sur les logiciels utilisés par les équipes logistiques et administratives.
+
+15. Définir les orientations stratégiques de l’entreprise : 
+Fixer les objectifs à long terme : développement, investissement matériel, innovation ou amélioration opérationnelle.
+
+16. Créer un nouveau compte utilisateur : 
+Attribuer à un nouvel employé les accès nécessaires aux outils numériques internes (portail logistique, messagerie, gestion des stocks…).
+
+17. Accompagner le changement et la transformation interne : 
+Conduire les projets d’évolution interne : nouveaux outils, restructurations, digitalisation ou adaptation des équipes.
+
+18. Planifier et suivre la performance opérationnelle (KPI) : 
+Surveiller les indicateurs clés (taux de livraison à l’heure, productivité entrepôt, taux de casse) pour piloter l’amélioration continue.
+
+19. Préparer les marchandises dans l’entrepôt : 
+Effectuer les tâches de tri, contrôle, étiquetage et emballage avant expédition.
+
+20. Gérer les risques opérationnels et la continuité d’activité : 
+Identifier les risques qui pourraient perturber la chaîne logistique et définir des mesures pour maintenir l’activité en cas d’incident.
+
+21. Superviser la qualité de service : 
+Définir les standards de qualité, vérifier leur application et agir en cas de non-conformité (retards, erreurs, incidents).
+
+22. Gérer la paie et les congés : 
+Réaliser les bulletins de salaire, gérer les absences, les congés et les obligations administratives liées au personnel.
+
+23. Piloter la conformité réglementaire : 
+S’assurer que l’entreprise respecte les obligations du transport, de la sécurité, de la protection des données et des normes professionnelles.
+
+24. Optimiser les tournées de transport : 
+Construire les itinéraires les plus efficaces pour réduire le temps, le coût et maximiser le taux de livraison à l’heure.
+
+25. Administrer les serveurs et systèmes : 
+Gérer l’infrastructure informatique (serveurs, bases de données, systèmes internes) indispensable aux opérations logistiques.
+
+26. Préparer les documents de transport réglementaires : 
+Produire les documents obligatoires pour la circulation et la conformité des marchandises (bordereaux, certificats, étiquettes réglementaires).
+
+27. Réaliser le retour logistique : 
+Gérer les marchandises retournées, les litiges, la réexpédition ou la réintégration en stock selon les procédures.
+
+28. Établir et suivre le budget global logistique et IT : 
+Allouer et contrôler les dépenses liées aux entrepôts, à la flotte de transport, aux outils numériques et au personnel.
+
+
+🔶 Exercice 2 : Analyse des dépendances entre processus
+
+Dans le scénario LogiFret Solutions, choisissez 3 processus parmi les 28 fournis.
+
+Pour chacun des 3 processus :
+
+- Identifiez tous les processus qui en dépendent
+  (processus qui ne peuvent pas fonctionner si celui-ci tombe).
+
+- Identifiez tous les processus dont il dépend
+  (processus nécessaires pour qu’il fonctionne correctement).
+
+- Expliquez en 1 à 2 phrases pourquoi il existe cette dépendance.
+
+Vous devez donc analyser :
+
+- les intrants/input (ce qui arrive dans le processus)
+- les extrants/output (ce que le processus délivre)
+- les interactions SI / métier / support
+
+
+
+
+
+
