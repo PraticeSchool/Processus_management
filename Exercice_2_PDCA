@@ -1,0 +1,59 @@
+Exercice 2 : PDCA (Roue de Deming)
+
+Processus étudié : Gérer les incidents informatiques
+
+Entreprise : LogiFret Solutions
+
+🔵 Contexte de l’entreprise
+
+Vous travaillez au sein du service informatique interne, composé de :
+
+1 responsable informatique
+
+3 techniciens
+
+Ce service doit assurer le support pour l’ensemble des utilisateurs de l’entreprise.
+
+
+🔴 Problématique actuelle
+
+Le processus “Gérer les incidents informatiques” rencontre plusieurs limites :
+
+1. Les utilisateurs déclarent principalement les incidents à l'orale
+2. Il n’existe aucune priorisation : les incidents sont traités dans l’ordre d’arrivée.
+3. Le temps de résolution est très variable selon les techniciens.
+4. Les utilisateurs ne reçoivent pas d’information sur l’avancement de leur incident.
+5. Certains incidents reviennent régulièrement.
+
+
+🟣 Votre mission
+
+Vous devez appliquer la méthode PDCA (Plan–Do–Check–Act) pour proposer une amélioration complète du processus.
+
+Pour cela, vous devrez produire :
+
+🟦 1 — PLAN (Planifier)
+
+- Analyser les problèmes listés
+- Identifier les causes possibles
+- Définir 2 à 3 objectifs d’amélioration
+- Choisir 2 indicateurs pour mesurer l’efficacité (KPI)
+
+🟧 2 — DO (Réaliser)
+
+- Proposer entre 4 à 6 actions concrètes pour améliorer le processus
+(nouvelles règles, outils, procédures, communication, organisation…)
+- Indiquer comment tester ces actions sur un périmètre pilote
+
+🟨 3 — CHECK (Vérifier)
+
+- Expliquer comment vous allez mesurer les résultats des actions
+- Analyser les écarts entre les objectifs et les résultats
+- Identifier les limites ou les problèmes restants
+
+🟩 4 — ACT (Ajuster)
+
+- Proposer les ajustements nécessaires
+- Définir ce que vous souhaitez standardiser définitivement
+- Indiquer quel nouveau problème apparaît, qui lancera le prochain PDCA
+
