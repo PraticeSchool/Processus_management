@@ -15,16 +15,16 @@ Votre mission est de concevoir un processus DSI complet, puis de le modéliser e
 
 Vous devez choisir un 1 processus :
 
-- Traiter un incident informatique
-- Gérer une demande utilisateur (matériel, logiciel, accès…)
-- Mettre à jour une application interne
-- Créer un compte utilisateur
-- Gérer une sauvegarde quotidienne
-- Vérifier un email suspect transmis au support
-- Traiter une alerte de supervision
-- Gérer une panne matérielle sur un poste utilisateur
-- Gérer une demande urgente du dirigeant
-- Effacer les données d’un salarié quittant l’entreprise
+1- Traiter un incident informatique
+2- Gérer une demande utilisateur (matériel, logiciel, accès…)
+3- Mettre à jour une application interne
+4- Créer un compte utilisateur
+5- Gérer une sauvegarde quotidienne
+6- Vérifier un email suspect transmis au support
+7- Traiter une alerte de supervision
+8- Gérer une panne matérielle sur un poste utilisateur
+9- Gérer une demande urgente du dirigeant
+10- Effacer les données d’un salarié quittant l’entreprise
 
 🔶 2. Travail demandé : créer et modéliser le processus
 
