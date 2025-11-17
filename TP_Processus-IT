@@ -1,0 +1,99 @@
+ÉNONCÉ — Concevoir un processus DSI et le modéliser en BPMN
+
+Vous travaillez dans la DSI de l’entreprise LogiFret Solutions, composée :
+
+- d’un responsable informatique
+- de trois techniciens support
+- d’environ 100 utilisateurs internes répartis sur 3 sites
+
+La DSI souhaite professionnaliser son fonctionnement en définissant et en modélisant clairement certains processus internes.
+Aujourd’hui, il n’existe pas de formalisation : chaque technicien fonctionne “à sa manière”.
+
+Votre mission est de concevoir un processus DSI complet, puis de le modéliser en BPMN, comme cela se fait dans les organisations professionnelles.
+
+🔶 1. Choisissez un processus parmi cette liste
+
+Vous devez choisir un 1 processus :
+
+- Traiter un incident informatique
+- Gérer une demande utilisateur (matériel, logiciel, accès…)
+- Mettre à jour une application interne
+- Créer un compte utilisateur
+- Gérer une sauvegarde quotidienne
+- Vérifier un email suspect transmis au support
+- Traiter une alerte de supervision
+- Gérer une panne matérielle sur un poste utilisateur
+- Gérer une demande urgente du dirigeant
+- Effacer les données d’un salarié quittant l’entreprise
+
+🔶 2. Travail demandé : créer et modéliser le processus
+
+Votre travail comporte deux parties obligatoires.
+
+🟩 PARTIE 1 — Compréhension et explication du BPMN
+
+Avant de modéliser votre processus, vous devez :
+
+✔ expliquer ce qu’est le BPMN
+✔ dire à quoi il sert
+✔ expliquer rapidement les symboles que vous allez utiliser
+
+Cette partie peut être courte (1 à 2 slides).
+
+Objectif : vérifier que vous comprenez l’outil que vous utilisez.
+
+🟩 PARTIE 2 — Création du processus
+
+Pour le processus choisi, vous devez produire :
+
+1) Le but du processus
+
+- À quoi sert-il ?
+- Quel problème il résout ?
+
+2) Le périmètre
+
+- Ce qui est inclus
+- Ce qui est exclu
+
+3) Les acteurs impliqués
+
+Exemples : utilisateur, technicien support, responsable IT
+
+4) Les règles / décisions clés
+
+Exemples : priorités, urgences, délais visés, conditions d’escalade
+
+5) Le workflow détaillé
+
+Toutes les étapes du processus, dans l’ordre.
+
+6) La modélisation en BPMN
+
+Obligatoire :
+
+pools et lanes, tâches, événements, gateways (décisions)
+
+Le schéma doit être propre et lisible (outil recommandé : Draw.io).
+
+7) Les indicateurs (KPI)
+
+Ce que vous mesureriez pour piloter le processus.
+Exemple : temps de traitement, conformité aux règles, récurrence…
+
+** Format du rendu **
+
+Vous devez remettre :
+
+✔ Slide de présentation
+✔ + 1 schéma BPMN
+✔ formulation claire et professionnelle
+
+🔶  Objectifs pédagogiques de ce TP : 
+
+- Comprendre et expliquer le BPMN
+- Savoir structurer un processus DSI
+- Construire un workflow logique et cohérent
+- Apprendre à modéliser avec un standard utilisé en entreprise
+- Développer sa capacité à formaliser et documenter
+
