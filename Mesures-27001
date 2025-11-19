@@ -1,0 +1,53 @@
+Exercice : Mini-audit ISO 27001 – Analyse d’une mesure de sécurité
+
+Vous travaillez dans un service informatique composé d’un responsable et de trois techniciens.
+Votre équipe doit renforcer la sécurité du SI en s’appuyant sur les bonnes pratiques de la norme ISO/IEC 27001:2022.
+
+Chaque groupe reçoit une seule mesure de l’annexe A de la norme ISO 27001.
+
+Votre mission est de réaliser un mini-audit de cette mesure et de proposer comment l’entreprise pourrait la mettre en œuvre.
+
+🟦 Travail attendu (pour chaque groupe)
+
+Pour la mesure quz vous avez choisie, vous devez produire les éléments suivants :
+
+1️⃣ Expliquer la mesure
+- Reformulez-la avec vos mots.
+- Décrivez ce qu’elle veut dire concrètement pour une entreprise.
+
+2️⃣ Identifier les risques auxquels elle répond
+- Quels incidents cette mesure permet d’éviter ?
+- Impacts possibles sur : disponibilité, intégrité, confidentialité, conformité.
+
+3️⃣ Proposer une implémentation réaliste
+- Que faut-il mettre en place dans l’entreprise pour être conforme ?
+- Processus, outils, bonnes pratiques, responsabilités.
+- Donnez des exemples concrets adaptés au contexte (1 responsable + 3 techniciens).
+
+4️⃣ Décrire comment l’auditer
+
+- Comment vérifier que la mesure est bien appliquée ?
+- Quels éléments de preuve un auditeur ISO 27001 demanderait ?
+(ex : procédures, journaux, enregistrements, preuves de formation, rapports…)
+
+-------------------------------------------------- Mesures de sécurité ----------------------------------------------------------------
+7.9 Sécurité des actifs hors des locaux
+Mesure de sécurité : Les actifs hors du site doivent être protégés.
+
+7.14 Élimination ou recyclage sécurisé(e) du matériel
+Mesure de sécurité : Les éléments du matériel contenant des supports de stockage doivent être vérifiés pour s'assurer que toute donnée sensible et que tout logiciel sous licence ont été supprimés ou écrasés de façon sécurisée, avant son élimination ou sa réutilisation.
+
+8.8 Gestion des vulnérabili- tés techniques
+Mesure de sécurité : Des informations sur les vulnérabilités techniques des systèmes d'information utilisés doivent être obtenues, l'exposition de l'organisation à ces vulnérabilités doit être évaluée et des mesures appropriées doivent être prises.
+
+8.22 Cloisonnement des réseaux
+Mesure de sécurité : Les groupes de services d'information, d'utilisateurs et de sys- tèmes d'information doivent être cloisonnés dans les réseaux de l'organisation.
+
+6.1 Sélection des candidats Mesure de sécurité
+Mesure de sécurité : Les vérifications des références de tous les candidats à l'embauche doivent être réalisées avant qu'ils n'intègrent l'organisation puis de façon continue en tenant compte des lois, des réglementations et de l'éthique applicables, et doivent être proportionnelles aux exigences métier, à la classification des informations auxquelles ils auront accès et aux risques identifiés.
+
+5.16   Gestion des identités de l'information.
+Mesure de sécurité : Le cycle de vie complet des identités doit être géré.
+
+5.8 La sécurité de l'information dans la gestion de projet
+Mesure de sécurité : La sécurité de l'information doit être intégrée à la gestion de projet.
